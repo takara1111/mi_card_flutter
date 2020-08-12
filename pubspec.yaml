@@ -26,3 +26,7 @@ flutter:
     - family: Recursive
       fonts:
         - asset: fonts/Recursive-VariableFont_CASL,CRSV,MONO,slnt,wght.ttf
+
+    - family: Source Sans Pro
+      fonts:
+        - asset: fonts/SourceSansPro-Regular.ttf
