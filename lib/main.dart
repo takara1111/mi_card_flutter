@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
               Text(
                 'Takara',
                 style: TextStyle(
-                  fontFamily: 'Pacifico',
+                  fontFamily: 'Recursive',
                   fontSize: 40.0,
                   color: Colors.white,
                   fontWeight: FontWeight.bold,

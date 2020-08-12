@@ -23,6 +23,6 @@ flutter:
     - images/
 
   fonts:
-    - family: Pacifico
+    - family: Recursive
       fonts:
-        - asset: fonts/Pacifico-Regular.ttf
+        - asset: fonts/Recursive-VariableFont_CASL,CRSV,MONO,slnt,wght.ttf
